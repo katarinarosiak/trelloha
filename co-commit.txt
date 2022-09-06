@@ -1,0 +1,5 @@
+git commit -m "frontend, reduced to smaller components
+
+
+Co-authored-by: Katarina Rosiak <katarinarosiak@gmail.com>
+Co-authored-by: Miles Abbason <miles.abbason@gmail.com>"
